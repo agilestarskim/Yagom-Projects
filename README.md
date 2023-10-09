@@ -5,7 +5,9 @@
 
 ## 1️⃣ 프로젝트 매니저
 
-[깃헙 저장소](https://github.com/agilestarskim/Yagom-ProjectManager)
+### 저장소
+
+[여기를 눌러 자세하게 확인하세요](https://github.com/agilestarskim/Yagom-ProjectManager)
 
 ### 사용 기술
 
@@ -24,9 +26,12 @@
 * [step2-2](https://github.com/yagom-academy/ios-project-manager/pull/309)
 * [step3](https://github.com/yagom-academy/ios-project-manager/pull/315)
 
+</br>
+
 ## 2️⃣ 일기장
 
-[깃헙 저장소](https://github.com/agilestarskim/Yagom-Diary)
+### 저장소
+[여기를 눌러 자세하게 확인하세요](https://github.com/agilestarskim/Yagom-Diary)
 
 ### 사용 기술
 
@@ -45,9 +50,12 @@ CoreData를 통해 모든 내용을 영구적으로 저장합니다.
 * [step2](https://github.com/yagom-academy/ios-diary/pull/133)
 * [step3](https://github.com/yagom-academy/ios-diary/pull/141)
 
+</br>
+
 ## 3️⃣ 박스오피스
 
-[깃헙 저장소](https://github.com/agilestarskim/Yagom-BoxOffice)
+### 저장소
+[여기를 눌러 자세하게 확인하세요](https://github.com/agilestarskim/Yagom-BoxOffice)
 
 ### 사용 기술
 
@@ -69,9 +77,12 @@ Daum Image API를 통해 영화 포스터도 함께 보여줍니다.
 * [step4](https://github.com/yagom-academy/ios-box-office/pull/99)
 * [step5](https://github.com/yagom-academy/ios-box-office/pull/112)
 
+</br>
+
 ## 4️⃣ 은행 창구 매니저
 
-[깃헙 저장소](https://github.com/agilestarskim/Yagom-BankManager)
+### 저장소
+[여기를 눌러 자세하게 확인하세요](https://github.com/agilestarskim/Yagom-BankManager)
 
 ### 주요 개념
 
@@ -89,9 +100,12 @@ Daum Image API를 통해 영화 포스터도 함께 보여줍니다.
 * [step2](https://github.com/yagom-academy/ios-bank-manager/pull/307)
 * [step3](https://github.com/yagom-academy/ios-bank-manager/pull/314)
 
+</br>
+
 ## 5️⃣ 계산기
 
-[깃헙 저장소](https://github.com/agilestarskim/Yagom-Calculator)
+### 저장소
+[여기를 눌러 자세하게 확인하세요](https://github.com/agilestarskim/Yagom-Calculator)
 
 ### 주요 개념
 
