@@ -1,9 +1,12 @@
 # Yagom-Projects
 🐻🏛️ 야곰 아카데미 프로젝트 모음집 🐻🏛️
 
-기간: 2023.04~2023.10 
+2023.04~2023.10 
+
+</br>
 
 ## 1️⃣ 프로젝트 매니저
+<img src="https://github.com/agilestarskim/Yagom-Projects/assets/79740398/6900d4d9-3c7c-4eb4-8294-b37fda91f4ca" height="150"/>
 
 ### 저장소
 
@@ -30,6 +33,9 @@
 
 ## 2️⃣ 일기장
 
+<img src="https://github.com/agilestarskim/Yagom-Projects/assets/79740398/a3dbca94-f7b5-4204-9c6e-079d938357f6" height="150"/>
+
+
 ### 저장소
 [여기를 눌러 자세하게 확인하세요](https://github.com/agilestarskim/Yagom-Diary)
 
@@ -53,6 +59,8 @@ CoreData를 통해 모든 내용을 영구적으로 저장합니다.
 </br>
 
 ## 3️⃣ 박스오피스
+
+<img src="https://github.com/agilestarskim/Yagom-Projects/assets/79740398/0812d633-6a14-4172-a730-0216e31b006f" height="150">
 
 ### 저장소
 [여기를 눌러 자세하게 확인하세요](https://github.com/agilestarskim/Yagom-BoxOffice)
@@ -80,6 +88,8 @@ Daum Image API를 통해 영화 포스터도 함께 보여줍니다.
 </br>
 
 ## 4️⃣ 은행 창구 매니저
+<img src="https://github.com/agilestarskim/Yagom-Projects/assets/79740398/6c1eb51f-81d3-40e9-a290-5185f60a2b4c" height="150"/>
+
 
 ### 저장소
 [여기를 눌러 자세하게 확인하세요](https://github.com/agilestarskim/Yagom-BankManager)
@@ -103,6 +113,9 @@ Daum Image API를 통해 영화 포스터도 함께 보여줍니다.
 </br>
 
 ## 5️⃣ 계산기
+
+<img src="https://github.com/agilestarskim/Yagom-Projects/assets/79740398/b737aebc-bc18-4714-bd38-dab36a1e6701" height="150"/>
+
 
 ### 저장소
 [여기를 눌러 자세하게 확인하세요](https://github.com/agilestarskim/Yagom-Calculator)
